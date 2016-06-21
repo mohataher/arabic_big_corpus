@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Text file containing big Arabic corpus. This file is inspired by [big.txt](http://norvig.com/big.txt) file by Peter Norvig. While his file is for English, [big_arabic.txt](arabic_big.txt) is the one for Arabic Language.
+Text file containing big Arabic corpus. This file is inspired by [big.txt](http://norvig.com/big.txt) file by Peter Norvig. While his file is for English, [arabic_big.txt](arabic_big.txt) is the one for Arabic Language.
 
 ## Sources
 
