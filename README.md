@@ -2,6 +2,8 @@
 
 > This repository is under development.
 
+![Alt text](matn.png?raw=true)
+
 ## Introduction
 
 Text file containing big Arabic corpus. This file is inspired by [big.txt](http://norvig.com/big.txt) file by Peter Norvig. While his file is for English, [big_arabic.txt](big_arabic.txt) is the one for Arabic Language.
