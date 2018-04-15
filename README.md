@@ -9,8 +9,11 @@
 Text file containing big Arabic corpus. This file is inspired by [big.txt](http://norvig.com/big.txt) file by Peter Norvig. While his file is for English, [arabic_big.txt](arabic_big.txt) is the one for Arabic Language.
 
 ## Sources
-
+### Included
 * [islambeacon](http://www.islambeacon.com/m/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85_%D9%85%D9%83%D8%AA%D9%88%D8%A8_(%D8%A8%D8%AF%D9%88%D9%86_%D8%AA%D8%B4%D9%83%D9%8A%D9%84)) - The full Quaranic script.
+### Not included (work in progress)
+* [LABR](https://github.com/mohamedadaly/LABR) - LABR: Large Scale Arabic Book Reviews Dataset.
+
 
 > More sources to be added.
 
