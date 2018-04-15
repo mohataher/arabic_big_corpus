@@ -15,7 +15,7 @@ Text file containing big Arabic corpus. This file is inspired by [big.txt](http:
 * [LABR](https://github.com/mohamedadaly/LABR) - LABR: Large Scale Arabic Book Reviews Dataset.
 * [SaudiNewsNet](https://github.com/ParallelMazen/SaudiNewsNet) - 
 This repo contains a set of Arabic newspaper articles alongwith metadata, extracted from various Saudi newspapers.
-
+* [Arabic-Wikipedia-Corpus](https://github.com/anastaw/Arabic-Wikipedia-Corpus)
 
 > More sources to be added.
 
