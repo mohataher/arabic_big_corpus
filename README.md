@@ -17,6 +17,7 @@ Text file containing big Arabic corpus. This file is inspired by [big.txt](http:
 This repo contains a set of Arabic newspaper articles alongwith metadata, extracted from various Saudi newspapers.
 * [Arabic-Wikipedia-Corpus](https://github.com/anastaw/Arabic-Wikipedia-Corpus)
 * [akec](https://github.com/ailab-uniud/akec) -  Arabic Keyphrase Extraction Corpus.
+* [El-Haj list](http://www.lancaster.ac.uk/staff/elhaj/corpora.htm) - list made by Dr. El-Haj of several academic papers.
 
 > More sources to be added.
 
